@@ -1,0 +1,9 @@
+src/abis
+node_modules
+
+ronda-client/node_modules
+ronda-client/dist
+
+ronda-api/node_modules
+ronda-api/public
+ronda-api/dist
